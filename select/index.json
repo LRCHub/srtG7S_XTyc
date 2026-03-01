@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "TULPA",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-03-01T07:23:59.094977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love & Pain (Tulpa Remix)",
+      "artist": "JMSN",
+      "has_synced": false,
+      "path": "select/01_Love_&_Pain_(Tulpa_Remix)_JMSN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Tulpa",
+      "artist": "Magazine",
+      "has_synced": false,
+      "path": "select/02_My_Tulpa_Magazine.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Tulpa",
+      "artist": "Magazine",
+      "has_synced": true,
+      "path": "select/03_My_Tulpa_Magazine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "VAGUE003 - where do i go (ft. tulpa & onlyevva)",
+      "artist": "VAGUE003",
+      "has_synced": true,
+      "path": "select/04_VAGUE003_-_where_do_i_go_(ft._tulpa_&_onlyevva)_VAGUE003.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Tulpa (Remastered)",
+      "artist": "Magazine",
+      "has_synced": false,
+      "path": "select/05_My_Tulpa_(Remastered)_Magazine.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Tulpa (Remastered 2007)",
+      "artist": "Magazine",
+      "has_synced": false,
+      "path": "select/06_My_Tulpa_(Remastered_2007)_Magazine.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love & Pain (Tulpa Remix)",
+      "artist": "Jmsn",
+      "has_synced": false,
+      "path": "select/07_Love_&_Pain_(Tulpa_Remix)_Jmsn.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "RAINBOW DASH TULPA",
+      "artist": "Operation Sodasteal",
+      "has_synced": false,
+      "path": "select/08_RAINBOW_DASH_TULPA_Operation_Sodasteal.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hentai Henry Smokes The Eighth With Little Mary Mariam (Fuck Your Dumb Ass Tulpa AND Her Gay Headmate With The Stupid Fake Accent)",
+      "artist": "4lung",
+      "has_synced": true,
+      "path": "select/09_Hentai_Henry_Smokes_The_Eighth_With_Little_Mary_Mariam_(Fuck_Your_Dumb_Ass_Tulpa_4lung.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Do I Go? (feat. Tulpa & Evva)",
+      "artist": "Vague003",
+      "has_synced": true,
+      "path": "select/10_Where_Do_I_Go__(feat._Tulpa_&_Evva)_Vague003.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "2 Yrs Late (feat. Tulpa)",
+      "artist": "TeddyBear",
+      "has_synced": true,
+      "path": "select/11_2_Yrs_Late_(feat._Tulpa)_TeddyBear.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hentai Henry Smokes The Eighth With Little Mary Mariam (Fuck Your Dumb Ass Tulpa AND Her Gay Headmate With The Stupid Fake Accent)",
+      "artist": "RAWRDCORE RECORDS",
+      "has_synced": true,
+      "path": "select/12_Hentai_Henry_Smokes_The_Eighth_With_Little_Mary_Mariam_(Fuck_Your_Dumb_Ass_Tulpa_RAWRDCORE_RECORDS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tulpa",
+      "artist": "Ophidian Memory",
+      "has_synced": false,
+      "path": "select/13_Tulpa_Ophidian_Memory.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hentai Henry Smokes The Eighth With Little Mary Mariam (Fuck Your Dumb Ass Tulpa AND Her Gay Headmate With The Stupid Fake Accent)",
+      "artist": "RAWRDCORE",
+      "has_synced": true,
+      "path": "select/14_Hentai_Henry_Smokes_The_Eighth_With_Little_Mary_Mariam_(Fuck_Your_Dumb_Ass_Tulpa_RAWRDCORE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tulpa (Anillos)",
+      "artist": "Dählia",
+      "has_synced": true,
+      "path": "select/15_Tulpa_(Anillos)_Dählia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Tulpa",
+      "artist": "Magazine",
+      "has_synced": true,
+      "path": "select/16_My_Tulpa_Magazine.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "TULPA",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/17_TULPA_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Tulpa",
+      "artist": "Magazine",
+      "has_synced": false,
+      "path": "select/18_My_Tulpa_Magazine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TULPA",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_TULPA_DUSTCELL.txt"
+    }
+  ]
+}
